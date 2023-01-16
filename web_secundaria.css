@@ -1,0 +1,82 @@
+/*---------------General---------------*/
+
+body {
+    background-color: black;
+}
+
+body {
+    color: white;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-weight: bold;
+}
+
+h3 {
+    font-style: oblique;
+    color: goldenrod;
+    text-align: center;
+}
+
+h2 {
+    font-style: oblique;
+    color: goldenrod;
+    text-align: center;
+}
+
+h1 {
+    font-style: oblique;
+    color: red;
+    text-align: center;
+}
+
+img {
+    border-radius: 15px;
+}
+
+hr {
+    color: transparent
+}
+
+div {
+    margin-left: 450px;
+}
+
+div#finalizada {
+    margin-left: 650px
+}
+
+/*---------------Pie de pagina---------------*/
+
+div.piepagina {
+    height: 150px;
+}
+
+#button1 {
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 100px;
+    height: 50px;
+    border-radius: 39px;
+    background-color: chocolate;
+    font-weight: bold;
+    font-style: oblique;
+    color: blue
+}
+
+#button2 {
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 100px;
+    height: 50px;
+    border-radius: 39px;
+    background-color: chocolate;
+    font-weight: bold;
+    font-style: oblique;
+    color: blue
+}
